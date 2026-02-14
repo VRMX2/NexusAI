@@ -1,0 +1,9 @@
+{
+  "name": "NexusAI SaaS Platform",
+  "description": "A production-ready multi-tenant AI SaaS platform with project management, real-time Gemini AI chat, and subscription controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
